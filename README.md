@@ -27,6 +27,8 @@ Total Records Analyzed: 119,390 bookings
 
 ### Query 1 – Total Bookings
 Calculated the total number of reservations.
+<img width="848" height="734" alt="Query1" src="https://github.com/user-attachments/assets/63f08f51-a3be-40aa-a1c6-27951470a3a8" />
+
 
 ### Query 2A – Cancellation Overview
 Compared canceled versus completed bookings.
